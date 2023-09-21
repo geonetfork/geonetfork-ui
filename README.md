@@ -1,8 +1,8 @@
 ![Workflow status](https://github.com/geonetwork/geonetwork-ui/workflows/Build/badge.svg) &nbsp;&nbsp; [![Coverage Status](https://coveralls.io/repos/github/geonetwork/geonetwork-ui/badge.svg?branch=main)](https://coveralls.io/github/geonetwork/geonetwork-ui?branch=main)
 
-# GeoNetwork UI
+# GeoNetFork UI
 
-GeoNetwork UI is a suite of Applications made to provide a modern facade to your GeoNetwork 4 catalog.
+GeoNetFork UI is a suite of Applications made to provide a modern facade to your GeoNetwork 4 catalog.
 
 It also provides Web Components to embed various parts of your data catalog in third party websites.
 
